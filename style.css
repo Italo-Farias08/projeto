@@ -47,7 +47,7 @@ h2{
   
 }
 header {
-  min-height: 30svh;
+  min-height: 40svh;
   background: linear-gradient(135deg, #004e92, #00c853, #00752d);
   display: flex;
   flex-direction: column;
